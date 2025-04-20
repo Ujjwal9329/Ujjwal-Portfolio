@@ -39,13 +39,13 @@ npm run dev
 
 🌍 Live Site
 🔗 View Portfolio Live
-(Replace the link once GitHub Pages is set up)
+
 
 📬 Contact
 Feel free to reach out:
 
-Email: your.email@example.com
+Email: ujjwalgujral8@gmail.com
 
-LinkedIn: Your LinkedIn
+LinkedIn: www.linkedin.com/in/ujjwal-gujral-20134a216
 
 GitHub: @Ujjwal9329
